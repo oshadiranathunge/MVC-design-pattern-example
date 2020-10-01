@@ -1,8 +1,9 @@
 
 public class Employee {
-	
+	//add a variable
 	private String rollNo;
 	private String name;
+	private String id;
 	
 	public String getRollNo() {
 		return rollNo;
